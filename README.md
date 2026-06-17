@@ -70,7 +70,7 @@ Input Pengguna
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/username-kamu/financialit.git
+git clone https://github.com/kusumonz/financialit.git
 cd financialit
 ```
 
